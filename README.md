@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=plutodevofficial&label=Profile%20views&color=0e75b6&style=flat" alt="plutodevofficial" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=plutodevofficial" alt="plutodevofficial" /></a> </p>
-
-- 🔭 I’m currently working on **xDz**
+- 🔭 I’m currently working on [Pluto Loader](https://github.com/PlutoDevOfficial/Pluto-Loader-Public)
 
 - 🌱 I’m currently learning **more about c# and the .net framework**
 
