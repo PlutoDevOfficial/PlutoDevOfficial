@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Pluto Loader](https://github.com/PlutoDevOfficial/Pluto-Loader-Public)
 
-- 🌱 I’m currently learning **more about c# and the .net framework**
+- 🌱 I’m currently learning **about ways to bypass antivirus engines and evade there sandboxes**
 
 - 📫 How to reach me **synapsedeveloping@protonmail.com**
 
